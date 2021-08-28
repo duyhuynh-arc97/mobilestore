@@ -1,0 +1,54 @@
+ .header {
+     background-color: #ebebeb;
+     padding-top: 45px;
+     padding-left: 50px;
+     padding-bottom: 60px;
+ }
+ 
+ #logout {
+     position: absolute;
+     top: 35px;
+     right: 50px;
+     border-radius: 5px;
+     width: 70px;
+     height: 30px;
+     border: none;
+     background-color: rgb(255, 30, 0);
+     font-weight: bold;
+     color: white;
+ }
+ 
+ #l2 {
+     font-size: 20px;
+     font-weight: bold;
+ }
+ 
+ .container {
+     margin-top: 30px;
+     padding-left: 50px;
+     padding-right: 50px;
+ }
+ 
+ .title {
+     width: 200px;
+     text-align: right;
+     padding-right: 20px;
+     font-weight: bold;
+ }
+ 
+ .input {
+     width: 250px;
+     margin-top: 5px;
+     margin-bottom: 5px;
+     height: 20px;
+ }
+ 
+ #btn {
+     margin-top: 10px;
+     height: 30px;
+     width: 100px;
+     border: none;
+     background-color: rgb(63, 138, 209);
+     color: white;
+     border-radius: 5px
+ }

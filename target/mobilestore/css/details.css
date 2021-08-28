@@ -1,0 +1,40 @@
+.header {
+    background-color: #ebebeb;
+    padding-top: 45px;
+    padding-left: 50px;
+    padding-bottom: 60px;
+}
+
+.container {
+    margin-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+}
+
+#image {
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#backbtn {
+    background-color: #179c28;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+}
+
+#orderbtn {
+    background-color: #fbb93b;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+}

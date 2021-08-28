@@ -1,0 +1,13 @@
+DAO\DBConnection.class
+model\CartItem.class
+controller\LoginServlet.class
+controller\DetailServlet.class
+controller\AddPrdtServlet.class
+controller\OrderServlet.class
+DAO\DetailDAO.class
+DAO\ProductDAO.class
+model\Product.class
+DAO\LoginDAO.class
+controller\RemoveServlet.class
+model\User.class
+controller\ClearServlet.class

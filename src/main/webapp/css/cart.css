@@ -1,0 +1,62 @@
+.header {
+    background-color: #ebebeb;
+    padding-top: 45px;
+    padding-left: 50px;
+    padding-bottom: 60px;
+}
+
+#clearbtn {
+    background-color: #d6424a;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 3px;
+}
+
+#checkoutbtn {
+    background-color: #1da728;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 3px;
+    float: right;
+}
+
+#backbtn {
+    background-color: #1da728;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.removebtn {
+    background-color: #d6424a;
+    border: none;
+    font-weight: bold;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+}
+
+.container {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+th,
+td {
+    padding: 7px;
+    text-align: left;
+    border-top: solid rgb(190, 189, 189) 2px;
+}
+
+.name {
+    width: 600px;
+    min-width: auto;
+}
